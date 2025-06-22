@@ -14,5 +14,4 @@ A simple object-oriented Java application that simulates basic bank account oper
 
 ---
 
-## 📁 Project Structure
 
